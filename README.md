@@ -56,4 +56,4 @@ Alongside my data-focused work, I have a solid foundation in C and C# and contin
 
 <h3>LeetCode Stats</h3>
 
-🧠 LeetCode: <a href="[XXX](https://leetcode.com/u/smh12/)" target="_blank">[LeetCode Profile](https://leetcode.com/u/smh12/)</a><br>
+🧠 LeetCode: <a href="[XXX](https://leetcode.com/u/smh12/)" target="_blank">(https://leetcode.com/u/smh12/)</a><br>
