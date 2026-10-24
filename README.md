@@ -51,7 +51,7 @@ Alongside my data-focused work, I have a solid foundation in C and C# and contin
 
 <p>
 📧 Email: <a href="mailto:semihkiraz42@gmail.com">semihkiraz42@gmail.com</a><br>
-💼 LinkedIn: <a href="[www.linkedin.com/in/semihkiraz1](https://www.linkedin.com/in/semihkiraz1/)" target="_blank">www.linkedin.com/in/semihkiraz1</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/semihkiraz1/" target="_blank">www.linkedin.com/in/semihkiraz1</a><br>
 </p>
 
 <h3>LeetCode Stats</h3>
